@@ -1,0 +1,7 @@
+[26-Jul-2016 11:37:27 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/ubuntu/workspace/wp-includes/functions.php on line 5280
+[26-Jul-2016 11:37:27 UTC] PHP Stack trace:
+[26-Jul-2016 11:37:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[26-Jul-2016 11:37:27 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[26-Jul-2016 11:37:27 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[26-Jul-2016 11:37:27 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[26-Jul-2016 11:37:27 UTC] PHP   5. require() /home/ubuntu/workspace/wp-settings.php:81

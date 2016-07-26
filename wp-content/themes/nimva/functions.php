@@ -680,3 +680,5 @@ new WPUpdatesThemeUpdater_1041( 'http://wp-updates.com/api/2/theme', basename( g
 
 include_once( get_template_directory() . "/themeupgrader.php" );
 new EWA_Theme_Upgrader( "http://rockythemes.com/api", 2 );
+
+add_filter('show_admin_bar', '__return_false');
