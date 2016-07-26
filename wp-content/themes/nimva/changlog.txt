@@ -1,0 +1,151 @@
+06.20.2016 - ver 2.0.5
+	- updated Visual Composer to version 4.12
+	- updated LayerSlider to version 5.6.8
+	- updated WooCommerce templates to version 2.6.1
+	- fixed Featured Services background color issue
+	
+
+05.03.2016 - ver 2.0.4
+	- Updated Visual Composer to version 4.11.2.1
+	- Updated LayerSlider to version 5.6.6
+
+04.14.2016 - ver 2.0.3
+	- Fixed One Page template width
+	- Fixed One Page template navigation issue - both desktop and mobile
+	- Updated Visual Composer to version 4.11.2
+	- Updated LayerSlider to versoin 5.6.5
+
+04.05.2016 - ver 2.0.2
+	- fixed small issue when using Popular Recent Posts widget in sidebar
+	- fixed iner api loop error
+
+04.04.2016 - ver 2.0
+	- IMPORTANT: Visual Composer is now set as a standalone plugin. After updating the theme, the Visual Composer plugin must be installed and activated!
+	- Updated LayerSlider plugin
+
+01.28.2016 - ver 1.9.6
+	- Minified CSS inline code rendering from Theme Options - now only 1 line generated
+	- Google Fonts minified
+	- jQuery Scripts are now being loaded in Footer
+	- UPDATED WooCommerce Template files
+	- UPDATED FontAwesome to version 4.5.0
+	- UPDATED FontAwesome to version 4.5.0 to Backend Elements of Visual Composer
+	- UPDATED LayerSlider to version 5.6.2
+	- UPDATED TGM plugin to version 2.5.2
+	- ADDED option to select how many columns to use for Footer Sidebars under Theme Options -> Footer
+	- OL element reverted to default styling
+	- Contact Form 7 and Post Type Order are now loaded from WordPress directory
+	- FIXED Logo Resize smooth transition
+	- Widgets updated to use new WordPress __construct function
+	- FIXED WooCommerce Search box on shop pages
+	- FIXED Flickr widget for SSL enabled sites
+	- ADDED Testimonial Image option
+
+08.18.2015 - ver 1.9.5
+	- WooCommerce Templates Updates
+	- FontAwesome updated to version 4.4.0
+	- Logo upload on SSL server fixed
+	- Color border for Clients now displayed correctly
+	- Logo center for Header V2 fixed
+	- LayerSlider updated to version 5.5.1
+	- Updated automatic update api to S3 Amazon Servers
+
+06.28.2015 - ver 1.9.4
+	- WooCommerce Templates updated
+	- Fixed Typos
+	- Translation corrected and updated
+	- Breadcrumb now showing correctly when WooCommerce plugin is inactive
+	- Single Post sharing icons text translated
+	- LayerSlider updated to version 5.4.0
+	- Post Type Order updated
+	- Contact Form 7 updated
+	- Removed Quantity increment plugin
+	- Logo Resize Fixed
+	-
+
+03.28.2015 - ver 1.9.3
+	- Fixed JetPack incompatibility issues
+	- Updated WooCommerce templates
+
+02.21.2015 - ver 1.9.1
+	- Fixed Text Logo color not displaying correctly
+	- Fixed Text and Image logo not displaying correctly for Header v1
+	- Search.php issues completely remover
+	- Added Mobile Menu background option
+	- Added Mobile Menu link color option
+	- Added Mobile Menu link separator color option
+	- Added Mobile Menu force Uppercase
+	- Added Mobile Menu font weight option
+	- Added option to select individual Header version for posts, pages, portfolio
+
+02.12.2015 - ver 1.9
+	- Fixed text logo disappearing on Small Devices
+	- Fixed search.php errors
+	- One Paget Temaplte fix on smaller screen devices
+	- Updated FontAwesome to the Latest Version
+	- Increased Modals Window Height in Admin Area Preview
+	- Increased Font Icon Preview in Admin area
+	- Updated WooCommerce template files to version 2.3
+	- Fixed WooCommerce Quantity Increment/Decrement
+
+02.07.2015 - ver 1.8
+	- Fixed Tabs and Tours - now working correctly
+	- Fixed Sub Menu Items not displaying correctly for Header Version 2 and Header Version 3
+	- Portfolio items can now link to a custom page - when creating the portfolio item you can link to a certain page.
+	- Added option for Portfolio items to skip first featured image set
+	- Fixed Sidebar for Portfolio items using Sidebar on 1160 layout
+	- Fixed Responsiveness on Devices with a screen res lower or equal to 479px
+	- Fixed index.php error
+
+02.05.2015 - ver 1.7
+	- NEW - ADDED WIDE LAYOUT OPTION - 1160PX
+	- NEW - ADDED ONE PAGE TEMPLATE
+	- Fixed arhcive.php and taxonomy-portfolio_category.php files reporting warnings
+	- Fixed content strip tags function
+	- Added option for Pots Grid element to link to bigger image or actual post page
+	- Fixed MegaMenu Column Title css when used as Link 
+	- Fixed Headers styles issues	-
+	- Improved Google Maps api functionality
+	- No more padding on smaller screen devices - smartphones will now load the theme correctly
+	- Buttons content will now adapt container size
+	- Added option to change the output text for Project Details, Project Description and Related Project 
+	- Added option to change the output text for Portfolio Details fields
+	- Fixed pagination and flexslider arrows colors
+	- Blog Sidebar will now show by default on all posts, when theme activated for the first time
+	- Fixed Social Wdiget not rendering Youtube hover effect correctly
+	- Added nested shortcode functionality for Pricing Table
+	- Fixed custom height option for Google Map on Contact page template
+	- Fixed border color change on Clients Element
+
+01.20.2015 - ver 1.6
+	- Post shortcode read more link fixed
+	- LayerSlider updated
+	- Contact 7 form plugin updated	
+	- Navigation Menu centered on mobile devices
+	- Pop-up modal of Visual Composer fixed
+	- Text Logo and Image Logo centering fixed on mobile devices
+	- Added elements orientation option inside the Product Feature
+
+12.02.2014 - ver 1.5
+	- for Product Feature you can now choose Alignment
+	- Fixed Recent Posts Widget
+	- Fixed Twitter on Footer
+	- Globally declared Remove WpAutop function
+	- updated WooCommerce css
+	- Updated LayerSlider to latest version
+
+11.26.2014 - ver 1.4
+	- Fixed Clients element - showing correctly on page load
+
+11.14.2014 - ver 1.3
+	- Fixed Quote Box now using Default HTML Textarea
+	- Fixed Pricing Table Responsiveness	
+	- Added Sticky Header reducing effect on vertical scroll
+
+11.13.2014 - ver 1.2
+	- Fixed Retina Logo for Header V2 and V3
+	- Featured Services box will become full link if any link is provided
+	- Google Analytics code now rendered in Header
+	- Header Menu positioning fix for Header V2 and V3
+	- WooCoomerce fix - if no woocommerce is used, header is rendering correctly rules 
+
